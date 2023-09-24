@@ -5,5 +5,6 @@
  - C#
  - .NET 6
  - Frontend: HTML , CSS , JS 
- - Backend : C# (.NET 6)
-# 
+ - Backend : C# (.NET 6), SQL SEVER
+# Link Github : https://github.com/vanTruongdev/BTL_QLBH
+# Zalo : 0867898648
